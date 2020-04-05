@@ -18,8 +18,6 @@ Train-Test-Validation set contains selected 10 fruits labels : <br />
 ## Overall Works
 Located on Fruit-Classification.ipynb (Data Preprocessing - Training - Prediction) <br />
 Basic CNN Model (cnn_basic_fruit.hdf5) results ~99% accuracy <br />
-<br />
-<br />
 ## Credit
 Presented in 2020 <br />
 by : [Maharani Devira](https://github.com/devipramita) & [Tia Dwi](https://github.com/tiadwi)
