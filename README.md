@@ -1,9 +1,10 @@
-# GoogleBangkit-FruitClassification
-Image Classification for Google Bangkit's Tensorflow Assignment 
-<br />
+# GoogleBangkit-FruitClassification #
+Image Classification for Google Bangkit's Tensorflow Assignment <br />
+This project aims to support markets in classifying fruit & vegetables faster and more accurately 
+using a tensorflow-based CNN model <br />
 ## Dataset
 Dataset taken from [Fruits 360](https://www.kaggle.com/moltean/fruits) <br />
-Train set & Test set contains selected 10 fruits labels : <br />
+Train-Test-Validation set contains selected 10 fruits labels : <br />
 - Apple Red 1
 - Avocado
 - Banana
@@ -14,12 +15,11 @@ Train set & Test set contains selected 10 fruits labels : <br />
 - Pepper Yellow
 - Potato Sweet
 - Tomato 3
-<br />
 ## Overall Works
 Located on Fruit-Classification.ipynb (Data Preprocessing - Training - Prediction) <br />
 Basic CNN Model (cnn_basic_fruit.hdf5) results ~99% accuracy <br />
 <br />
 <br />
-#### Credits
+## Credit
 Presented in 2020 <br />
-by : Maharani Devira & Tia Dwi
+by : [Maharani Devira](https://github.com/devipramita) & [Tia Dwi](https://github.com/tiadwi)
