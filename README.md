@@ -1,7 +1,7 @@
 # GoogleBangkit-FruitClassification #
 Image Classification for Google Bangkit's Tensorflow Assignment <br />
 This project aims to support markets in classifying fruit & vegetables faster and more accurately 
-using a tensorflow-based CNN model <br />
+using a tf-based CNN model <br />
 ## Dataset
 Dataset taken from [Fruits 360](https://www.kaggle.com/moltean/fruits) <br />
 Train-Test-Validation set contains selected 10 fruits labels : <br />
